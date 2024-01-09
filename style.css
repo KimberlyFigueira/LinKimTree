@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
+
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+body {
+background: url(./assets/belas-paisagens-do-cume-do-monte-everest-coberto-de-neve-sob-as-nuvens-brancas.jpg);
+}
+
+.body{
+    padding: 1cm;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Krona One', sans-serif;
+}
+
+.title:hover{
+    transform: scale(1.1);
+    transition: 1.5s;
+}
+
+img{
+    border-radius: 50%;
+    width: 300px;
+    margin: 1rem;
+}
+
+.name{
+    text-align: center;
+    font-family: 'Krona One', sans-serif;
+}
+
+.description{
+    text-align: center;
+    padding: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+    width: 100%;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: large;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button:hover{
+    transform: scale(1.1);
+    transition: 2s;
+    background-color: inherit;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
