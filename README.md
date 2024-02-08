@@ -1,6 +1,7 @@
 # LinKimTree
 
 Este repositório contém o código-fonte para uma landing page semelhante ao Linktree, uma ferramenta popular usada para criar links personalizados para várias plataformas de mídia social.
+Pode ser acessado através do seguinte link: https://kimberlyfigueira.github.io/LinKimTree/
 
 ## Visão Geral 🌟
 Uma landing page é uma página da web única que atua como um ponto central para direcionar os usuários para várias outras páginas da web ou perfis de mídia social. Este projeto visa fornecer uma maneira simples e eficaz de criar uma landing page personalizada com links para suas redes sociais, portfólio, blogs ou qualquer outro destino relevante.
